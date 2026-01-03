@@ -67,6 +67,7 @@ After downloading the datasets from Kaggle:
 2. Place the CSV files inside the directory as shown below:
 
 project-root/
+
 │── data/
 
 │ ├── bot_detection_data.csv
