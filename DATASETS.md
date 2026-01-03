@@ -68,6 +68,10 @@ After downloading the datasets from Kaggle:
 
 project-root/
 │── data/
+
 │ ├── bot_detection_data.csv
+
 │ ├── hashtag_joebiden.csv
+
 │ └── hashtag_donaldtrump.csv
+
